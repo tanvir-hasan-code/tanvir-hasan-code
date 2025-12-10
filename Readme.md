@@ -1,0 +1,69 @@
+<h1 align="center">Hi, I'm Tanvir 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=3AA6F7&center=true&vCenter=true&width=500&lines=Junior+MERN+Stack+Developer;Frontend+Engineer;React+%7C+Node.js+%7C+MongoDB;Passionate+Coder+%26+Problem+Solver" />
+</p>
+
+---
+
+## 🚀 About Me  
+- 💻 Passionate **MERN Stack Developer**  
+- 🎨 Love creating **clean UI, responsive layouts & modern dashboards**  
+- 🔥 Skilled in authentication, CRUD, protected routes, API integration  
+- 📦 Experience with both **Frontend & Backend**  
+- 🌱 Currently learning: Advanced React Patterns & Full-stack Architecture  
+- 🤝 Open to collaboration on JavaScript, React & MERN projects  
+
+---
+
+## 🛠️ Tech Stack  
+
+### **Frontend**
+- React.js, Next.js  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+- Responsive UI Design  
+- Component-based Architecture  
+
+### **Backend**
+- Node.js  
+- Express.js  
+- REST API Development  
+
+### **Database**
+- MongoDB  
+- Mongoose ODM  
+
+### **Others**
+- Firebase Auth  
+- JWT Authentication  
+- Git & GitHub  
+- LocalStorage/Client state  
+- Deployment (Vercel, Netlify)  
+
+---
+
+## 📂 Featured Projects  
+🔹 **Recipe Book App** — Firebase Auth + MongoDB + Protected routes + Like system  
+🔹 **Bill Management System** — Balance payment, organization cards, filtering, secured routes  
+🔹 **Lawyer Booking App** — LocalStorage booking, dynamic chart using Recharts  
+🔹 **Lawyer Directory** — Lazy loading, Suspense & custom card components  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+- ✉ Email: your-email@gmail.com  
+- 🔗 Portfolio: your-portfolio-link.com  
+- 💼 LinkedIn: linkedin.com/in/YOUR_PROFILE  
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
