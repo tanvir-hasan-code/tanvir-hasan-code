@@ -11,95 +11,87 @@
 
 ---
 
-<!-- Intro Section -->
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I'm a <b>Front-End Developer</b> passionate about building <b>fast</b>, <b>responsive</b>, and <b>user-friendly</b> web applications.<br/>
+  I'm a <b>Front‑End Developer</b> passionate about building <b>fast</b>, <b>responsive</b>, and <b>user‑friendly</b> web applications.<br/>
   With strong expertise in <b>React.js</b> and <b>Next.js</b>, I love turning design ideas into polished, production‑ready products.<br/>
   If you have a project that needs creative problem‑solving and pixel‑perfect execution — I’m always ready to collaborate!
 </p>
 
 ---
 
-<!-- Tech Stack -->
 <h2 align="center">🧠 Tech Stack</h2>
 
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap" /><br>
-      <b>Frontend</b>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap" /><br><b>Frontend</b>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,npm,postman,pnpm" /><br>
-      <b>Backend</b>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,npm,postman,pnpm" /><br><b>Backend</b>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /><br>
-      <b>Database & Auth</b>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /><br><b>Database & Auth</b>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" /><br>
-      <b>Tools & Deployment</b>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" /><br><b>Tools & Deployment</b>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=jest,vitest,postman,swagger" /><br>
-      <b>Testing & APIs</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=linux,bash,powershell" /><br>
-      <b>Environment</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=python,c" /><br>
-      <b>Other Languages</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=vite,webpack" /><br>
-      <b>Build & Optimization</b>
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jest,vitest,swagger" /><br><b>Testing & APIs</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux,bash" /><br><b>Environment</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python,c" /><br><b>Languages</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vite,webpack" /><br><b>Build Tools</b></td>
   </tr>
 </table>
 
-<p align="center">
-  <i>“Great code feels like art — it’s clean, consistent, and speaks for itself.”</i>
-</p>
+<p align="center"><i>“Great code feels like art — it’s clean, consistent, and speaks for itself.”</i></p>
 
 ---
 
-<!-- Projects Section -->
 <h2 align="center">💡 Featured Projects</h2>
-
-<p align="center">Here are a few of my favorite projects where I combined design thinking with technical precision:</p>
 
 | 🌟 Project | 🔍 Description | 🧰 Tech |
 |:--|:--|:--|
-| **Recipe Book App** | Firebase Auth, MongoDB, Protected Routes, Like System | React, Node.js, Firebase |
-| **Bill Management System** | Organization cards, balance tracking, secure routes | MERN Stack |
-| **Lawyer Booking App** | Booking logic, dynamic charts (Recharts), local storage | React, Recharts |
-| **Lawyer Directory** | Lazy Loading, Suspense, Custom Components | React, Tailwind CSS |
+| **Recipe Book App** | Firebase Auth, MongoDB, Protected Routes, Like System | React, Node.js, Firebase |
+| **Bill Management System** | Organization cards, balance tracking, secure routes | MERN Stack |
+| **Lawyer Booking App** | Booking logic, dynamic charts (Recharts), local storage | React, Recharts |
+| **Lawyer Directory** | Lazy Loading, Suspense, Custom Components | React, Tailwind CSS |
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Insights</h2>
+<h2 align="center">🏆 Achievements</h2>
 <p align="center">
-  <!-- GitHub Streak -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-hasan-code&theme=react" alt="Tanvir's Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tanvir-hasan-code&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" />
 </p>
 
-<a href="https://github.com/tanvir-hasan-code">
-  <img src="https://img.shields.io/badge/GitHub-Tanvir--Hasan--Code-181717?style=for-the-badge&logo=github" />
-</a>
+---
 
+<h2 align="center">📊 GitHub Insights</h2>
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=tanvir-hasan-code&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanvir-hasan-code&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hasan-code&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hasan-code&theme=tokyo-night" alt="Activity Graph" />
+</p>
 
 ---
 
-<!-- Contact Section -->
-<h2 align="center">🌐 Connect With Me</h2>
+## 🎯 Fun Facts
+- ☕ Coffee = Fuel + Focus  
+- 🎨 UI clean lines make me happy  
+- ⚡ Favorite Stack: React + Node + Tailwind + MongoDB  
+- 🎧 Lo‑Fi beats while building cool things  
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:tanvirhasan9613@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -110,4 +102,4 @@
 
 ---
 
-<h3 align="center">✨ Thanks for visiting — Keep coding, keep creating ✨</h3>
+<h3 align="center">✨ Thanks for visiting — keep coding, keep creating ✨</h3>
