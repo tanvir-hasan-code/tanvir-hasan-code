@@ -66,14 +66,7 @@
 <h2 align="center">👨‍💻 Developer at Work</h2>
 
 <p align="center">
-  <lottie-player 
-    src="/web design Lottie animation.gif"  
-    background="transparent"  
-    speed="1"  
-    style="width: 300px; height: 300px;"  
-    loop  
-    autoplay>
-</lottie-player>
+<img src="/web design Lottie animation.gif">
 
 </p>
 <p align="center"><i>“Turning ideas into interactive realities.”</i></p>
