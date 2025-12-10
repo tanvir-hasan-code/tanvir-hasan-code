@@ -61,9 +61,10 @@
 ---
 
 ## 🌐 Connect With Me  
-- ✉ Email: your-email@gmail.com  
-- 🔗 Portfolio: your-portfolio-link.com  
-- 💼 LinkedIn: linkedin.com/in/YOUR_PROFILE  
+- ✉ Email: tanvirhasan9613@gmail.com  
+- 🔗 Portfolio: https://portfolio--tanvir.web.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/tanvir-hasan01/
+- ⓕ Facebook: https://www.facebook.com/tanvir0Xv/  
 
 ---
 
