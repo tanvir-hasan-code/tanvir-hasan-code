@@ -4,9 +4,7 @@
 <p align="center">
   <img src="https://i.ibb.co/CpWYMWP1/Black-and-Red-Gradient-Professional-Linked-In-Banner.png" width="100%" alt="Banner"/>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanvir-hasan-code&color=e12afb&style=flat-square&label=Profile+Visits" alt="Profile Visits" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=e12afb&center=true&vCenter=true&width=800&lines=Frontend+Engineer;React+Developer;Web+Developer;MERN+Stack+Developer;Next.js+Specialist;TypeScript+Enthusiast;JavaScript+Lover;Clean+UI+Designer;Fullstack+Developer;Problem+Solver;TailwindCSS+Specialist;Always+Learning+New+Tech" alt="Typing Animation" />
@@ -69,7 +67,7 @@
 
 <p align="center">
   <lottie-player 
-    src="https://lottie.host/embed/b0cbf38b-25de-461e-b65d-0e6c0037aa74/V2VushvI4a.lottie"  
+    src="/web design Lottie animation.gif"  
     background="transparent"  
     speed="1"  
     style="width: 300px; height: 300px;"  
@@ -87,10 +85,15 @@
   <!-- GitHub Streak -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-hasan-code&theme=react" alt="Tanvir's Streak Stats" />
 </p>
+<dvi>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanvir-hasan-code&color=e12afb&style=flat-square&label=Profile+Visits" alt="Profile Visits" />
+</p>
 
 <a href="https://github.com/tanvir-hasan-code">
   <img src="https://img.shields.io/badge/GitHub-Tanvir--Hasan--Code-181717?style=for-the-badge&logo=github" />
 </a>
+</div>
 
 ---
 
