@@ -32,15 +32,15 @@
       <b>Frontend</b>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,npm,postman,graphql" /><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,npm,postman,pnpm" /><br>
       <b>Backend</b>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite" /><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /><br>
       <b>Database & Auth</b>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,heroku" /><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" /><br>
       <b>Tools & Deployment</b>
     </td>
   </tr>
@@ -54,11 +54,11 @@
       <b>Environment</b>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=python,c,cpp,java" /><br>
+      <img src="https://skillicons.dev/icons?i=python,c" /><br>
       <b>Other Languages</b>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=vite,webpack,eslint,prettier" /><br>
+      <img src="https://skillicons.dev/icons?i=vite,webpack" /><br>
       <b>Build & Optimization</b>
     </td>
   </tr>
