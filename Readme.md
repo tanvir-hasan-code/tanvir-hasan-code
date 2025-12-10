@@ -68,7 +68,7 @@
 <h2 align="center">👨‍💻 Developer at Work</h2>
 
 <p align="center">
-  <img src="https://lottie.host/embed/03a15e3e-e15a-4c75-ab6e-3df268c7e6b8/q1Bnz1sBBN.gif" width="400" alt="Developer Animation" />
+  <img src="https://lottie.host/embed/b0cbf38b-25de-461e-b65d-0e6c0037aa74/V2VushvI4a.lottie" width="400" alt="Developer Animation" />
 </p>
 <p align="center"><i>“Turning ideas into interactive realities.”</i></p>
 
