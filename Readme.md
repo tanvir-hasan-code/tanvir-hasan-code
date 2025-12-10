@@ -86,15 +86,15 @@
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Insights</h2>
-
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=tanvir-hasan-code&theme=tokyonight" alt="Tanvir's Streak Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanvir-hasan-code&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Tanvir's GitHub Stats" />
+  <!-- GitHub Streak -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-hasan-code&theme=react" alt="Tanvir's Streak Stats" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hasan-code&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
-</p>
+<a href="https://github.com/tanvir-hasan-code">
+  <img src="https://img.shields.io/badge/GitHub-Tanvir--Hasan--Code-181717?style=for-the-badge&logo=github" />
+</a>
+
 
 ---
 
