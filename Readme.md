@@ -60,12 +60,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/tanvir-hasan-code?label=Followers&style=social" />
-<img src="https://img.shields.io/github/stars/tanvir-hasan-code?style=social" />
-<img src="https://img.shields.io/github/repo-size/tanvir-hasan-code/your-repo-name" />
-
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-hasan-code&theme=react" />
 </p>
+<img src="https://img.shields.io/github/followers/tanvir-hasan-code?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/tanvir-hasan-code?style=social" />
+<img src="https://img.shields.io/github/repo-size/tanvir-hasan-code/TechOrbit-Client" />
 <a href="https://github.com/tanvir-hasan-code">
   <img src="https://img.shields.io/badge/GitHub-Tanvir--Hasan--Code-181717?style=for-the-badge&logo=github" />
 </a>
