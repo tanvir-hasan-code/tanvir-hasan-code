@@ -54,7 +54,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?user=tanvir-hasan-code&show_icons=true&theme=react" />
+  <img width="48%" src="https://githubreadmestatsfast.vercel.app/api?username=tanvir-hasan-code&show_icons=true&theme=react" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-hasan-code&theme=react" />
 </p>
 
