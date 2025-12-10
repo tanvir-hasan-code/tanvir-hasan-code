@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://i.ibb.co/CpWYMWP1/Black-and-Red-Gradient-Professional-Linked-In-Banner.png" width="100%" alt="Banner"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanvir-hasan-code&color=e12afb&style=flat-square&label=Profile+Visits" alt="Profile Visits" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=e12afb&center=true&vCenter=true&width=800&lines=Frontend+Engineer;React+Developer;Web+Developer;MERN+Stack+Developer;Next.js+Specialist;TypeScript+Enthusiast;JavaScript+Lover;Clean+UI+Designer;Fullstack+Developer;Problem+Solver;TailwindCSS+Specialist;Always+Learning+New+Tech" alt="Typing Animation" />
@@ -40,7 +43,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=jest,vitest,swagger" /><br><b>Testing & APIs</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux,bash" /><br><b>Environment</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux,bash,powershell" /><br><b>Environment</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python,c" /><br><b>Languages</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vite,webpack" /><br><b>Build Tools</b></td>
   </tr>
@@ -61,25 +64,25 @@
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+<!-- Developer Animation Section -->
+<h2 align="center">👨‍💻 Developer at Work</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanvir-hasan-code&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" />
+  <img src="https://lottie.host/embed/03a15e3e-e15a-4c75-ab6e-3df268c7e6b8/q1Bnz1sBBN.gif" width="400" alt="Developer Animation" />
 </p>
+<p align="center"><i>“Turning ideas into interactive realities.”</i></p>
 
 ---
 
 <h2 align="center">📊 GitHub Insights</h2>
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=tanvir-hasan-code&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanvir-hasan-code&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hasan-code&layout=compact&theme=tokyonight" />
+  <!-- GitHub Streak -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-hasan-code&theme=react" alt="Tanvir's Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hasan-code&theme=tokyo-night" alt="Activity Graph" />
-</p>
+<a href="https://github.com/tanvir-hasan-code">
+  <img src="https://img.shields.io/badge/GitHub-Tanvir--Hasan--Code-181717?style=for-the-badge&logo=github" />
+</a>
 
 ---
 
